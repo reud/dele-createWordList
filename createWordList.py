@@ -25,4 +25,3 @@ path: str = args.output if args.output else 'output.txt'
 with open(path, 'w') as file:
     file.write('\n'.join(str_list))
 
-print(len(ouput_lists))

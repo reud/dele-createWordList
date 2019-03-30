@@ -17,7 +17,6 @@ Python 3.5+　(型アノーテーションが入っているため)
 ```bash
 $ chmod +x createWordList.py
 ```
-
 で実行環境を与えた後は、作中通りに
 
 ## Licence
